@@ -1,15 +1,15 @@
-p {
+.odd {
     background-color: hsl(0, 100%, 80%);
     font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.odd.cool{
+    font-size: 24px;
 }
 
 #second {
     color: hsl(240, 100%, 50%);
     font-size: 36px;
-}
-
-#third{
-    font-size: 24px;
 }
 
 #fourth {
